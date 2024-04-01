@@ -1,0 +1,13 @@
+OCBC Bank FXo Trading Intern 
+
+June - Dec 2024 
+
+Responsibilities:
+Providing operational support to the FX options trading desk which includes tasks such as funding, risk monitoring and reporting, as well as consolidating cross asset market analyses in preparation for meetings.
+Enhancing and maintaining a comprehensive database of public FX options trade data. In addition, this role will require close collaboration with traders to automate trading signal generation and perform rigorous backtesting of trading strategies.
+Collaborate with front office developers, quants, and traders to improve the infrastructure of the pricing engine and enhance the features of the in-house FX options pricing system. This will involve working together to identify areas for improvement, implementing changes and ensuring that it is optimised for accurate and efficient pricing of FX options.
+Maintaining and upgrading VBA-based automations that support the desk’s operations. The aim is to enhance the trader’s user experience, improve overall efficiency and scalability and ensure that these automations continue to function optimally over time.
+ 
+
+Email your CV to: xiangfei@ocbc.com
+

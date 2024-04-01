@@ -14,6 +14,8 @@ import math
 class PayoffType(str, Enum):
     Call = 'Call'
     Put = 'Put'
+    BinaryCall = 'BinaryCall'
+    BinaryPut = 'BinaryPut'
 
 def oneStepBinomial(S:float, r:float, u:float, d:float, optType:PayoffType, K:float, T:float) -> float:
     p = (math.exp(r * T) - d) / (u-d)
